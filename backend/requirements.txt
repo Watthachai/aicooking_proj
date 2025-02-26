@@ -1,0 +1,14 @@
+Flask
+Flask-CORS
+mysql-connector-python
+gunicorn
+Flask-SQLAlchemy
+flask_jwt_extended
+marshmallow
+PyMySQL
+Flask-Migrate
+Flask-WTF
+Werkzeug
+SQLAlchemy
+pytest
+pytest-flask
